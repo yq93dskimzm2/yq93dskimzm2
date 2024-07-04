@@ -6,6 +6,8 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2023%2F05%2F26%2F00%2F55%2Fhacker-8018499_640.png&f=1&nofb=1&ipt=df9afaea7bd7d87f166805cc1d46463b1e4ba99983c08eaf58ced5922ba08a13&ipo=images">
 
 `I'm a self-taught Security Reasercher and Developer :)`
+
+I'm also a fan of privacy and I learn a lot about cyber in the military.
 ---
 
 ## Contact me on Session :
