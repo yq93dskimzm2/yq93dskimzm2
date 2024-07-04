@@ -39,7 +39,7 @@ From time to time I learn graphic design and video editing, but it's rare.
 
 [![Others](https://skillicons.dev/icons?i=cloudflare,bots,docker,git,github,notion,obsidian,postman,wordpress)](https://skillicons.dev)
 
-I also use some tool such as obsidian for my notes, github for my projects, ...
+I also use some tools such as obsidian for my notes, github for my projects, ...
 
 ## Operating Systems :
 [![OS](https://skillicons.dev/icons?i=windows,linux,debian,ubuntu,redhat,mint,arch,kali)](https://skillicons.dev)
@@ -47,7 +47,8 @@ I also use some tool such as obsidian for my notes, github for my projects, ...
 I have a lot of VM to test my tools and to practice dynamic analysis
 
 ## Projects:
-Most of my projects are private and I keep the tools I develop for myself, my friends and the people I work with.
+Most of my projects are private and I keep the tools I develop for myself, my friends and the people I work with. \
+I mainly develop osint and pentest tools to be faster and more efficient
 
 ## Github stats :
 <div style="display: flex;">
