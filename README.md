@@ -60,7 +60,3 @@ I mainly develop osint and pentest tools to be faster and more efficient
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yq93dskimzm2&&theme=tokyonight&layout=compact&langs_count=10" alt="Top Langs"">
     </a>
 </div>
-
-## Desktop
-
-![image](https://github.com/yq93dskimzm2/yq93dskimzm2/assets/169821536/c98b9fbd-2d29-41e4-898a-8676c0face05)
