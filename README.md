@@ -48,10 +48,18 @@ I also use some tools such as obsidian for my notes, github for my projects, ...
 I have a lot of VM to test my tools and to practice dynamic analysis
 
 ## Projects:
-I am currently working on
-- making my own linux distribution compatible with qubes os (using rust)
-- rewrite basic bin such as ls/mkdir in rust and use it in my own system
-- osint / pentest / privacy / security tools in rust ofc
+I am currently working on making (everything will be in rust)
+- A secure linux system like qubes with an hypervisor. (After this one I'll probably create my own osint/pentest distribution)
+- Binaries like ls/mkdir/... to use them in my systems.
+- Osint tools for each platform. (proton, discord)
+- Pentest tools for each case. (sqlmap,ssrfmap,...)
+- Security tools (passmanager,...)
+
+My goal is to have the most advanced tools wh
+
+All these projects will be closed source and licensed, and of course anyone will be able to buy them with the necessary money.
+
+Of course I know all of these projects will not be finished in 2024 but I work as much as possible on them everyday.
 
 ## Github stats :
 <div style="display: flex;">
