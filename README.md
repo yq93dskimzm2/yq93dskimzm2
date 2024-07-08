@@ -10,7 +10,10 @@ I'm also a fan of privacy and I learn a lot about cyber in the military.
 
 
 ## Contact me on Session :
+
 05849439dafd95fca120b4339b9be877c3a3432966024d3276c7b9f4626295b665
+
+If you want to work with me contact me, I'm searching for rust and assembly developers, reverse engineer, pentesters and more.
 
 ## Programming languages:
 [![Programming](https://skillicons.dev/icons?i=html,css,md,lua,bash,powershell,py,js,ts,php,java,cs,cpp,rust,regex)](https://skillicons.dev)
