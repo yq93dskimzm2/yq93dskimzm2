@@ -15,7 +15,7 @@ I'm also a fan of privacy and I learn a lot about cyber in the military.
 ## Programming languages:
 [![Programming](https://skillicons.dev/icons?i=html,css,md,lua,bash,powershell,py,js,ts,php,java,cs,cpp,rust,regex)](https://skillicons.dev)
 
-For some of these languages I have learned the basics in order to get by (php,java,cs,cpp) but I don't use them much any more as they are not very suitable for my projects. I still continue to use html,css,js/ts for web and wasm (it's rare), markdown for README, lua for FiveM, bash and powershell when I need to do a little script, python for POC, regex when I need it and for the majority of my projects I'm using RUST.
+For some of these languages I have learned the basics in order to get by (php,java,cs,cpp) but I don't use them much any more as they are not very suitable for my projects. I still continue to use html,css,js/ts for web and wasm (it's rare), markdown for README, lua for FiveM, bash and powershell when I need it for a little script, python for POC, regex when I need it and for the majority of my projects I'm using RUST.
 
 I also learn assembly when I have time.
 
