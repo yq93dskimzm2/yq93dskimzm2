@@ -56,6 +56,7 @@ I mainly develop osint and pentest tools to be faster and more efficient
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yq93dskimzm2&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Anurag's GitHub stats">
 </a>
+    
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yq93dskimzm2&&theme=tokyonight&layout=compact&langs_count=10" alt="Top Langs"">
     </a>
