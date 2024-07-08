@@ -52,10 +52,10 @@ I have a lot of VM to test my tools and to practice dynamic analysis
 
 ## Projects:
 I am currently working on making (everything will be in rust)
-- A secure linux system like qubes with an hypervisor. (After this one I'll probably create my own osint/pentest distribution)
+- A secure linux system like qubes with an hypervisor (After this one I'll probably create my own osint/pentest distribution)
 - Binaries like ls/mkdir/... to use them in my systems.
-- Osint tools for each platform. (proton, discord)
-- Pentest tools for each case. (sqlmap,ssrfmap,...)
+- Osint tools for each platform (proton, discord,...)
+- Pentest tools for each case (sqlmap,ssrfmap,...)
 - Security tools (passmanager,...)
 - Others(Search engine, ...)
 
