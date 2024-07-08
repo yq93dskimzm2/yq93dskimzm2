@@ -57,6 +57,7 @@ I am currently working on making (everything will be in rust)
 - Osint tools for each platform. (proton, discord)
 - Pentest tools for each case. (sqlmap,ssrfmap,...)
 - Security tools (passmanager,...)
+- Others(Search engine, ...)
 
 My goal for these tools is to improve my speed and efficiency in penetration testing, and to help people become better too.
 
