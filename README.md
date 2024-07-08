@@ -48,8 +48,10 @@ I also use some tools such as obsidian for my notes, github for my projects, ...
 I have a lot of VM to test my tools and to practice dynamic analysis
 
 ## Projects:
-Most of my projects are private and I keep the tools I develop for myself, my friends and the people I work with. \
-I mainly develop osint and pentest tools to be faster and more efficient
+I am currently working on
+- making my own linux distribution compatible with qubes os (using rust)
+- rewrite basic bin such as ls/mkdir in rust and use it in my own system
+- osint / pentest / privacy / security tools in rust ofc
 
 ## Github stats :
 <div style="display: flex;">
