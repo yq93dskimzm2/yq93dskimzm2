@@ -55,7 +55,7 @@ I am currently working on making (everything will be in rust)
 - Pentest tools for each case. (sqlmap,ssrfmap,...)
 - Security tools (passmanager,...)
 
-My goal is to have the most advanced tools wh
+My goal is for these tools to improve my speed and efficiency in penetration testing, and to help people become better too.
 
 All these projects will be closed source and licensed, and of course anyone will be able to buy them with the necessary money.
 
